@@ -1,3 +1,4 @@
 apples
 mangoes
 banana
+print(fruit)
